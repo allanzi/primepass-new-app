@@ -1,0 +1,8 @@
+Please find our comments on your questions. 
+1) Specifically, can users sign-up for the prime pass within the app? 
+=> Yes , user can sign up to app for free. User can also register to app using their Facebook account. 
+
+2) Is there any service fee when they sign-up for an account in the app? 
+=> No sign up is free for all users. User will be only charged if he wants to generate tickets from app. It will be subscription. We have not integrated in app purchase here as we want to refund some amount of money (Only refund 75% of money if user cancel their subscription) to user in case user cancel their subscriptions. 
+
+Please let us know if you need any other informations.
